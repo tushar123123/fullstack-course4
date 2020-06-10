@@ -1,0 +1,58 @@
+#main{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    padding: 10px;
+}
+#container .txt{
+padding: 10px;
+padding-top: 25px;
+font-family: 'Raleway', sans-serif;
+
+}
+.pad{
+    padding: 0px 20px;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+#container .item{
+   
+    margin: 20px;
+    }
+#container .item{
+    background-color: grey;
+    border: 2px solid black;
+
+}
+
+#chicken h3{
+    float: right;
+    background-color: brown;
+    border: solid 2px black;
+    border-top: 0px;
+    border-right: 0px;
+}
+#beef h3{
+    float: right;
+    background-color: cyan;
+    border: solid 2px black;
+    border-top: 0px;
+    border-right: 0px;
+ 
+}
+#sushi h3{
+    float: right;
+    background-color: darkorange;
+    border: solid 2px black;
+    border-top: 0px;
+    border-right: 0px;
+   
+}
